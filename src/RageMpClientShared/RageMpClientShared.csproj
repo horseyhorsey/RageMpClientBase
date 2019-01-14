@@ -2,8 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>RageMpClientBase</RootNamespace>
-    <AssemblyName>RageMpClientBase</AssemblyName>
+    <RootNamespace>RageMpClientShared</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -11,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RageMpClientHelpers\RageMpClientHelpers.csproj" />
+    <Compile Remove="MyFirstScript.cs" />
   </ItemGroup>
 
   <ItemGroup>

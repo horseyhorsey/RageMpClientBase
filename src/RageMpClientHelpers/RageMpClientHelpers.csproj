@@ -11,6 +11,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RageMpClientShared\RageMpClientShared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Newtonsoft.Json">
       <HintPath>C:/RAGEMP/\dotnet\Newtonsoft.Json.dll</HintPath>
     </Reference>
