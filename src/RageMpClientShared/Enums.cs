@@ -45,151 +45,153 @@
         CHAR_DETONATEBOMB,
         CHAR_DETONATEPHONE,
         CHAR_DEVIN,
+        CHAR_DIAL_A_SUB,
+        CHAR_DOM,
+        CHAR_DOMESTIC_GIRL,
+        CHAR_DREYFUSS,
+        CHAR_DR_FRIEDLANDER,
+        CHAR_ENGLISH_DAVE,
+        CHAR_EPSILON,
+        CHAR_ESTATE_AGENT,
+        CHAR_FACEBOOK,
+        CHAR_FILMNOIR,
+        CHAR_FLOYD,
+        CHAR_FRANKLIN,
+        CHAR_FRANK_TREV_CONF,
+        CHAR_GANGAPP,
+        CHAR_GAYMILITARY,
+        CHAR_HAO,
+        CHAR_HITCHER_GIRL,
+        CHAR_HUMANDEFAULT,
+        CHAR_HUNTER,
+        CHAR_JIMMY,
+        CHAR_JIMMY_BOSTON,
+        CHAR_JOE,
+        CHAR_JOSEF,
+        CHAR_JOSH,
+        CHAR_LAMAR,
+        CHAR_LAZLOW,
+        CHAR_LAZLOW2,
+        CHAR_LESTER,
+        CHAR_LESTER_DEATHWISH,
+        CHAR_LEST_FRANK_CONF,
+        CHAR_LEST_MIKE_CONF,
+        CHAR_LIFEINVADER,
+        CHAR_LJT,
+        CHAR_LS_CUSTOMS,
+        CHAR_LS_TOURIST_BOARD,
+        CHAR_MALC,
+        CHAR_MANUEL,
+        CHAR_MARNIE,
+        CHAR_MARTIN,
+        CHAR_MARY_ANN,
+        CHAR_MAUDE,
+        CHAR_MECHANIC,
+        CHAR_MICHAEL,
+        CHAR_MIKE_FRANK_CONF,
+        CHAR_MIKE_TREV_CONF,
+        CHAR_MILSITE,
+        CHAR_MINOTAUR,
+        CHAR_MOLLY,
+        CHAR_MP_ARMY_CONTACT,
+        CHAR_MP_BIKER_BOSS,
+        CHAR_MP_BIKER_MECHANIC,
+        CHAR_MP_BRUCIE,
+        CHAR_MP_DETONATEPHONE,
+        CHAR_MP_FAM_BOSS,
+        CHAR_MP_FIB_CONTACT,
+        CHAR_MP_FM_CONTACT,
+        CHAR_MP_GERALD,
+        CHAR_MP_JULIO,
+        CHAR_MP_MECHANIC,
+        CHAR_MP_MERRYWEATHER,
+        CHAR_MP_MEX_BOSS,
+        CHAR_MP_MEX_DOCKS,
+        CHAR_MP_MEX_LT,
+        CHAR_MP_MORS_MUTUAL,
+        CHAR_MP_PROF_BOSS,
+        CHAR_MP_RAY_LAVOY,
+        CHAR_MP_ROBERTO,
+        CHAR_MP_SNITCH,
+        CHAR_MP_STRETCH,
+        CHAR_MP_STRIPCLUB_PR,
+        CHAR_MRS_THORNHILL,
+        CHAR_MULTIPLAYER,
+        CHAR_NIGEL,
+        CHAR_OMEGA,
+        CHAR_ONEIL,
+        CHAR_ORTEGA,
+        CHAR_OSCAR,
+        CHAR_PAIGE,
+        CHAR_PATRICIA,
+        CHAR_PA_FEMALE,
+        CHAR_PA_MALE,
+        CHAR_PEGASUS_DELIVERY,
+        CHAR_PLANESITE,
+        CHAR_PROPERTY_ARMS_TRAFFICKING,
+        CHAR_PROPERTY_BAR_AIRPORT,
+        CHAR_PROPERTY_BAR_BAYVIEW,
+        CHAR_PROPERTY_BAR_CAFE_ROJO,
+        CHAR_PROPERTY_BAR_COCKOTOOS,
+        CHAR_PROPERTY_BAR_ECLIPSE,
+        CHAR_PROPERTY_BAR_FES,
+        CHAR_PROPERTY_BAR_HEN_HOUSE,
+        CHAR_PROPERTY_BAR_HI_MEN,
+        CHAR_PROPERTY_BAR_HOOKIES,
+        CHAR_PROPERTY_BAR_IRISH,
+        CHAR_PROPERTY_BAR_LES_BIANCO,
+        CHAR_PROPERTY_BAR_MIRROR_PARK,
+        CHAR_PROPERTY_BAR_PITCHERS,
+        CHAR_PROPERTY_BAR_SINGLETONS,
+        CHAR_PROPERTY_BAR_TEQUILALA,
+        CHAR_PROPERTY_BAR_UNBRANDED,
+        CHAR_PROPERTY_CAR_MOD_SHOP,
+        CHAR_PROPERTY_CAR_SCRAP_YARD,
+        CHAR_PROPERTY_CINEMA_DOWNTOWN,
+        CHAR_PROPERTY_CINEMA_MORNINGWOOD,
+        CHAR_PROPERTY_CINEMA_VINEWOOD,
+        CHAR_PROPERTY_GOLF_CLUB,
+        CHAR_PROPERTY_PLANE_SCRAP_YARD,
+        CHAR_PROPERTY_SONAR_COLLECTIONS,
+        CHAR_PROPERTY_TAXI_LOT,
+        CHAR_PROPERTY_TOWING_IMPOUND,
+        CHAR_PROPERTY_WEED_SHOP,
+        CHAR_RICKIE,
+        CHAR_RON,
+        CHAR_SAEEDA,
+        CHAR_SASQUATCH,
+        CHAR_SIMEON,
+        CHAR_SOCIAL_CLUB,
+        CHAR_SOLOMON,
+        CHAR_STEVE,
+        CHAR_STEVE_MIKE_CONF,
+        CHAR_STEVE_TREV_CONF,
+        CHAR_STRETCH,
+        CHAR_STRIPPER_CHASTITY,
+        CHAR_STRIPPER_CHEETAH,
+        CHAR_STRIPPER_FUFU,
+        CHAR_STRIPPER_INFERNUS,
+        CHAR_STRIPPER_JULIET,
+        CHAR_STRIPPER_NIKKI,
+        CHAR_STRIPPER_PEACH,
+        CHAR_STRIPPER_SAPPHIRE,
+        CHAR_TANISHA,
+        CHAR_TAXI,
+        CHAR_TAXI_LIZ,
+        CHAR_TENNIS_COACH,
+        CHAR_TONY_PRINCE,
+        CHAR_TOW_TONYA,
+        CHAR_TRACEY,
+        CHAR_TREVOR,
+        CHAR_WADE,
+        CHAR_YOUTUBE
     }
 
 
 
 
-    //Char dial a sub.jpg CHAR_DIAL_A_SUB     Yes
-    //Char dom.jpg CHAR_DOM    Yes
-    //Char domestic girl.jpg CHAR_DOMESTIC_GIRL  Yes
-    //Char dreyfuss.jpg CHAR_DREYFUSS   Yes
-    //Char dr friedlander.jpg CHAR_DR_FRIEDLANDER     Yes
-    //Char english dave.jpg CHAR_ENGLISH_DAVE   Yes
-    //Char epsilon.jpg CHAR_EPSILON    Yes
-    //Char estate agent.jpg CHAR_ESTATE_AGENT   Yes
-    //Char facebook.jpg CHAR_FACEBOOK   Yes
-    //Char filmnoir.jpg CHAR_FILMNOIR   Yes
-    //Char floyd.jpg CHAR_FLOYD  Yes
-    //Char franklin.jpg CHAR_FRANKLIN   Yes
-    //Char frank trev conf.jpg CHAR_FRANK_TREV_CONF    Yes
-    //Char gangapp.jpg CHAR_GANGAPP    Yes
-    //Char gaymilitary.jpg CHAR_GAYMILITARY    Yes
-    //Char hao.jpg CHAR_HAO    Yes
-    //Char hitcher girl.jpg CHAR_HITCHER_GIRL   Yes
-    //Char humandefault.jpg CHAR_HUMANDEFAULT   Yes
-    //Char hunter.jpg CHAR_HUNTER     Yes
-    //Char jimmy.jpg CHAR_JIMMY  Yes
-    //Char jimmy boston.jpg CHAR_JIMMY_BOSTON   Yes
-    //Char joe.jpg CHAR_JOE    Yes
-    //Char josef.jpg CHAR_JOSEF  Yes
-    //Char josh.jpg CHAR_JOSH   Yes
-    //Char lamar.jpg CHAR_LAMAR  Yes
-    //Char lazlow.jpg CHAR_LAZLOW     Yes
-    //Char lazlow2.jpg CHAR_LAZLOW2    Yes
-    //Char lester.jpg CHAR_LESTER     Yes
-    //Char lester deathwish.jpg CHAR_LESTER_DEATHWISH   Yes
-    //Char lest frank conf.jpg CHAR_LEST_FRANK_CONF    Yes
-    //Char lest mike conf.jpg CHAR_LEST_MIKE_CONF     Yes
-    //Char lifeinvader.jpg CHAR_LIFEINVADER    Yes
-    //Char ljt.jpg CHAR_LJT    Yes
-    //Char ls customs.jpg CHAR_LS_CUSTOMS     Yes
-    //Char ls tourist board.jpg CHAR_LS_TOURIST_BOARD   Yes
-    //Char malc.jpg CHAR_MALC   Yes
-    //Char manuel.jpg CHAR_MANUEL     Yes
-    //Char marnie.jpg CHAR_MARNIE     Yes
-    //Char martin.jpg CHAR_MARTIN     Yes
-    //Char mary ann.jpg CHAR_MARY_ANN   Yes
-    //Char maude.jpg CHAR_MAUDE  Yes
-    //Char mechanic.jpg CHAR_MECHANIC   Yes
-    //Char michael.jpg CHAR_MICHAEL    Yes
-    //Char mike frank conf.jpg CHAR_MIKE_FRANK_CONF    Yes
-    //Char mike trev conf.jpg CHAR_MIKE_TREV_CONF     Yes
-    //Char milsite.jpg CHAR_MILSITE    Yes
-    //Char minotaur.jpg CHAR_MINOTAUR   Yes
-    //Char molly.jpg CHAR_MOLLY  Yes
-    //Char mp army contact.jpg CHAR_MP_ARMY_CONTACT    Yes
-    //Char mp biker boss.jpg CHAR_MP_BIKER_BOSS  Yes
-    //Char mp biker mechanic.jpg CHAR_MP_BIKER_MECHANIC  Yes
-    //Char mp brucie.jpg CHAR_MP_BRUCIE  Yes
-    //Char mp detonatephone.jpg CHAR_MP_DETONATEPHONE   Yes
-    //Char mp fam boss.jpg CHAR_MP_FAM_BOSS    Yes
-    //Char mp fib contact.jpg CHAR_MP_FIB_CONTACT     Yes
-    //Char mp fm contact.jpg CHAR_MP_FM_CONTACT  Yes
-    //Char mp gerald.jpg CHAR_MP_GERALD  Yes
-    //Char mp julio.jpg CHAR_MP_JULIO   Yes
-    //Char mp mechanic.jpg CHAR_MP_MECHANIC    Yes
-    //Char mp merryweather.jpg CHAR_MP_MERRYWEATHER    Yes
-    //Char mp mex boss.jpg CHAR_MP_MEX_BOSS    Yes
-    //Char mp mex docks.jpg CHAR_MP_MEX_DOCKS   Yes
-    //Char mp mex lt.jpg CHAR_MP_MEX_LT  Yes
-    //Char mp mors mutual.jpg CHAR_MP_MORS_MUTUAL     Yes
-    //Char mp prof boss.jpg CHAR_MP_PROF_BOSS   Yes
-    //Char mp ray lavoy.jpg CHAR_MP_RAY_LAVOY   Yes
-    //Char mp roberto.jpg CHAR_MP_ROBERTO     Yes
-    //Char mp snitch.jpg CHAR_MP_SNITCH  Yes
-    //Char mp stretch.jpg CHAR_MP_STRETCH     Yes
-    //Char mp stripclub pr.jpg CHAR_MP_STRIPCLUB_PR    Yes
-    //Char mrs thornhill.jpg CHAR_MRS_THORNHILL  Yes
-    //Char multiplayer.jpg CHAR_MULTIPLAYER    Yes
-    //Char nigel.jpg CHAR_NIGEL  Yes
-    //Char omega.jpg CHAR_OMEGA  Yes
-    //Char oneil.jpg CHAR_ONEIL  Yes
-    //Char ortega.jpg CHAR_ORTEGA     Yes
-    //Char oscar.jpg CHAR_OSCAR  Yes
-    //Char paige.jpg CHAR_PAIGE  Yes
-    //Char patricia.jpg CHAR_PATRICIA   Yes
-    //Char pa female.jpg CHAR_PA_FEMALE  Yes
-    //Char pa male.jpg CHAR_PA_MALE    Yes
-    //Char pegasus delivery.jpg CHAR_PEGASUS_DELIVERY   Yes
-    //Char planesite.jpg CHAR_PLANESITE  Yes
-    //Char property arms trafficking.jpg CHAR_PROPERTY_ARMS_TRAFFICKING  Yes
-    //Char property bar airport.jpg CHAR_PROPERTY_BAR_AIRPORT   Yes
-    //Char property bar bayview.jpg CHAR_PROPERTY_BAR_BAYVIEW   Yes
-    //Char property bar cafe rojo.jpg CHAR_PROPERTY_BAR_CAFE_ROJO     Yes
-    //Char property bar cockotoos.jpg CHAR_PROPERTY_BAR_COCKOTOOS     Yes
-    //Char property bar eclipse.jpg CHAR_PROPERTY_BAR_ECLIPSE   Yes
-    //Char property bar fes.jpg CHAR_PROPERTY_BAR_FES   Yes
-    //Char property bar hen house.jpg CHAR_PROPERTY_BAR_HEN_HOUSE     Yes
-    //Char property bar hi men.jpg CHAR_PROPERTY_BAR_HI_MEN    Yes
-    //Char property bar hookies.jpg CHAR_PROPERTY_BAR_HOOKIES   Yes
-    //Char property bar irish.jpg CHAR_PROPERTY_BAR_IRISH     Yes
-    //Char property bar les bianco.jpg CHAR_PROPERTY_BAR_LES_BIANCO    Yes
-    //Char property bar mirror park.jpg CHAR_PROPERTY_BAR_MIRROR_PARK   Yes
-    //Char property bar pitchers.jpg CHAR_PROPERTY_BAR_PITCHERS  Yes
-    //Char property bar singletons.jpg CHAR_PROPERTY_BAR_SINGLETONS    Yes
-    //Char property bar tequilala.jpg CHAR_PROPERTY_BAR_TEQUILALA     Yes
-    //Char property bar unbranded.jpg CHAR_PROPERTY_BAR_UNBRANDED     Yes
-    //Char property car mod shop.jpg CHAR_PROPERTY_CAR_MOD_SHOP  Yes
-    //Char property car scrap yard.jpg CHAR_PROPERTY_CAR_SCRAP_YARD    Yes
-    //Char property cinema downtown.jpg CHAR_PROPERTY_CINEMA_DOWNTOWN   Yes
-    //Char property cinema morningwood.jpg CHAR_PROPERTY_CINEMA_MORNINGWOOD    Yes
-    //Char property cinema vinewood.jpg CHAR_PROPERTY_CINEMA_VINEWOOD   Yes
-    //Char property golf club.jpg CHAR_PROPERTY_GOLF_CLUB     Yes
-    //Char property plane scrap yard.jpg CHAR_PROPERTY_PLANE_SCRAP_YARD  Yes
-    //Char property sonar collections.jpg CHAR_PROPERTY_SONAR_COLLECTIONS     Yes
-    //Char property taxi lot.jpg CHAR_PROPERTY_TAXI_LOT  Yes
-    //Char property towing impound.jpg CHAR_PROPERTY_TOWING_IMPOUND    Yes
-    //Char property weed shop.jpg CHAR_PROPERTY_WEED_SHOP     Yes
-    //Char rickie.jpg CHAR_RICKIE     Yes
-    //Char ron.jpg CHAR_RON    Yes
-    //Char saeeda.jpg CHAR_SAEEDA     Yes
-    //Char sasquatch.jpg CHAR_SASQUATCH  Yes
-    //Char simeon.jpg CHAR_SIMEON     Yes
-    //Char social club.jpg CHAR_SOCIAL_CLUB    Yes
-    //Char solomon.jpg CHAR_SOLOMON    Yes
-    //Char steve.jpg CHAR_STEVE  Yes
-    //Char steve mike conf.jpg CHAR_STEVE_MIKE_CONF    Yes
-    //Char steve trev conf.jpg CHAR_STEVE_TREV_CONF    Yes
-    //Char stretch.jpg CHAR_STRETCH    Yes
-    //Char stripper chastity.jpg CHAR_STRIPPER_CHASTITY  Yes
-    //Char stripper cheetah.jpg CHAR_STRIPPER_CHEETAH   Yes
-    //Char stripper fufu.jpg CHAR_STRIPPER_FUFU  Yes
-    //Char stripper infernus.jpg CHAR_STRIPPER_INFERNUS  Yes
-    //Char stripper juliet.jpg CHAR_STRIPPER_JULIET    Yes
-    //Char stripper nikki.jpg CHAR_STRIPPER_NIKKI     Yes
-    //Char stripper peach.jpg CHAR_STRIPPER_PEACH     Yes
-    //Char stripper sapphire.jpg CHAR_STRIPPER_SAPPHIRE  Yes
-    //Char tanisha.jpg CHAR_TANISHA    Yes
-    //Char taxi.jpg CHAR_TAXI   Yes
-    //Char taxi liz.jpg CHAR_TAXI_LIZ   Yes
-    //Char tennis coach.jpg CHAR_TENNIS_COACH   Yes
-    //Char tony prince.jpg CHAR_TONY_PRINCE    Yes
-    //Char tow tonya.jpg CHAR_TOW_TONYA  Yes
-    //Char tracey.jpg CHAR_TRACEY     Yes
-    //Char trevor.jpg CHAR_TREVOR     Yes
-    //Char wade.jpg CHAR_WADE   Yes
-    //Char youtube.jpg CHAR_YOUTUBE    Yes
+
+    //TODO: MOve seperate enum
     //Dia acult.jpg DIA_ACULT   No
     //Dia agent14.jpg DIA_AGENT14     No
     //Dia ah1 janitor.jpg DIA_AH1_JANITOR     No
