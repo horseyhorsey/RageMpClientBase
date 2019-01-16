@@ -92,6 +92,22 @@ namespace RageMpClientHelpers
             SendPicNotification(title, sender, msg, pic, icon, flash, textCol, bgCol, flashCol);
         }
 
+        /// <summary>
+        /// Draws a subtitle to the bottom center of screen.
+        /// </summary>
+        /// <remarks>
+        /// Subtitle("~y~This is a yellow subtitle", 3000);
+        /// </remarks>
+        /// <param name="subtitle"></param>
+        /// <param name="duration"></param>
+        /// <param name="drawImmediatley"></param>
+        public static void ShowSubtitle(string subtitle, int duration = 5000, bool drawImmediatley = true)
+        {            
+            Ui.BeginTextCommandPrint("STRING");            
+            Ui.AddTextComponentSubstringPlayerName(subtitle);
+            Ui.EndTextCommandPrint(duration, drawImmediatley);            
+        }
+
         private static void SetMaxTextComponentSubstringMessage(string msg)
         {
             int maxLength = 99;
