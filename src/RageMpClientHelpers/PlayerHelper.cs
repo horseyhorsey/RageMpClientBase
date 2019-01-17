@@ -76,12 +76,12 @@ namespace RageMpClientHelpers
                 Pad.DisableAllControlActions(0);
         }
 
-        public static void WastedStart()
+        public static void WastedStart(float timescale = 0.2f)
         {
             GfxHelper.ScreenFxStart(ScreenEffect.DeathFailMPIn);
             UiHelper.EnableHuds(false, false);
             ChatHelper.EnableChat(false);
-            RAGE.Game.Misc.SetTimeScale(0.2f);
+            RAGE.Game.Misc.SetTimeScale(timescale);
         }
     }
 }
