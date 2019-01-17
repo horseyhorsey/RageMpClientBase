@@ -22,7 +22,7 @@ namespace RageMpClientHelpers
         }
         public static Scaleform BigMessageShard(string title, string message, int titleColor = 1, int bgColor = 0)
         {
-            var sf = new Scaleform("midsized_message");
+            var sf = new Scaleform("mp_big_message_freemode");
             while (!sf.IsLoaded) Invoker.Wait(0);
             sf.CallFunction("SHOW_SHARD_CENTERED_MP_MESSAGE", title, message, titleColor, bgColor);
             return sf;
@@ -64,7 +64,7 @@ namespace RageMpClientHelpers
             sf.CallFunction("SHOW_MIDSIZED_MESSAGE", title, message);
             return sf;
         }
-        public static Scaleform MessageMidSizedShared(string title, string message, int bgColor, bool dark = false, bool condensed = false)
+        public static Scaleform MessageMidSizedShared(string title, string message, int bgColor = 0, bool dark = false, bool condensed = false)
         {
             var sf = new Scaleform("midsized_message");
             while (!sf.IsLoaded) Invoker.Wait(0);

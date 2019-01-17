@@ -1,8 +1,7 @@
 ﻿using RageMpClientShared;
-using System;
 using System.Linq;
 
-namespace RageMpHelper
+namespace RageMpClientHelpers
 {
     public static class GfxHelper
     {

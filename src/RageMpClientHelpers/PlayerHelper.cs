@@ -1,4 +1,6 @@
 ﻿using RAGE.Game;
+using RageMpClientShared;
+using System;
 using System.Collections.Generic;
 
 namespace RageMpClientHelpers
@@ -46,6 +48,14 @@ namespace RageMpClientHelpers
             Graphics.PopScaleformMovieFunctionVoid();
         }
 
+        public static void WastedClear()
+        {
+            GfxHelper.ScreenFxStop(ScreenEffect.DeathFailMPIn);
+            ChatHelper.EnableChat(true);
+            UiHelper.EnableHuds(true);
+            RAGE.Game.Misc.SetTimeScale(1);
+        }
+
         /// <summary>
         /// Freezes the player and their controls
         /// </summary>
@@ -64,6 +74,14 @@ namespace RageMpClientHelpers
                 Pad.EnableAllControlActions(0);
             else
                 Pad.DisableAllControlActions(0);
+        }
+
+        public static void WastedStart()
+        {
+            GfxHelper.ScreenFxStart(ScreenEffect.DeathFailMPIn);
+            UiHelper.EnableHuds(false, false);
+            ChatHelper.EnableChat(false);
+            RAGE.Game.Misc.SetTimeScale(0.2f);
         }
     }
 }
