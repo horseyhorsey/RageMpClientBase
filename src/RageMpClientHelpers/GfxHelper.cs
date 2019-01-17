@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using RageMpClientShared;
+using System;
 using System.Linq;
-using System.Text;
 
 namespace RageMpHelper
 {
@@ -10,6 +9,34 @@ namespace RageMpHelper
         public static void ClearCycle()
         {
             RAGE.Game.Graphics.ClearTimecycleModifier();
+        }
+
+        public static void ScreenFxStart(string effect, int duration = 0, bool looped = true, bool stopExisting = true)
+        {
+            if (stopExisting)
+            {
+                //ScreenFxStop(effect);
+                //if (RAGE.Game.Graphics.GetScreenEffectIsActive(effect))
+                RAGE.Game.Graphics.StopAllScreenEffects();
+            }
+
+            RAGE.Game.Graphics.StartScreenEffect(effect, duration, looped);
+        }
+
+        public static void ScreenFxStart(ScreenEffect screenEffect, int duration = 0, bool looped = true, bool stopExisting = true)
+        {
+            ScreenFxStart(screenEffect.ToString());
+        }
+
+        public static void ScreenFxStop(string effect)
+        {
+            if (RAGE.Game.Graphics.GetScreenEffectIsActive(effect))
+                RAGE.Game.Graphics.StopScreenEffect(effect);
+        }
+
+        public static void ScreenFxStop(ScreenEffect screenEffect)
+        {
+            ScreenFxStop(screenEffect.ToString());
         }
 
         /// <summary>
