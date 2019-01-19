@@ -81,7 +81,8 @@ namespace RageMpClientHelpers
             GfxHelper.ScreenFxStart(ScreenEffect.DeathFailMPIn);
             UiHelper.EnableHuds(false, false);
             ChatHelper.EnableChat(false);
-            RAGE.Game.Misc.SetTimeScale(timescale);
+            Audio.PlaySoundFrontend(-1, "MP_Flash", "WastedSounds", true);
+            Misc.SetTimeScale(timescale);
         }
     }
 }
